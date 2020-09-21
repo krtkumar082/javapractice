@@ -21,6 +21,10 @@ public class App
         LOG.fatal(message + "Will Be Printed on fatal");
         LOG.info("Appending String: {}." + message);
         System.out.println(message);
+
         System.out.println("HELLO");
+
+        System.out.println("KIRTI");
+
     }
 }
