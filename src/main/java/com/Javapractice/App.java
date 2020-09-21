@@ -21,10 +21,14 @@ public class App
         LOG.fatal(message + "Will Be Printed on fatal");
         LOG.info("Appending String: {}." + message);
         System.out.println(message);
+<<<<<<< HEAD
 
         System.out.println("HELLO");
 
         System.out.println("KIRTI");
 
+=======
+        System.out.println("KIRTI");
+>>>>>>> refs/remotes/origin/master
     }
 }
